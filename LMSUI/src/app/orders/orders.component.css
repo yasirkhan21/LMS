@@ -1,0 +1,10 @@
+:host {
+  display: block;
+  margin: 2rem auto 1rem;
+  width: 70%;
+}
+
+table {
+  width: 100%;
+  margin-top: 1rem;
+}

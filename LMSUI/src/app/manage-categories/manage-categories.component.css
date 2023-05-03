@@ -1,0 +1,20 @@
+:host {
+  display: flex;
+  margin: 3rem auto 0;
+  justify-content: space-around;
+  width: 80%;
+}
+.add-category {
+  height: max-content;
+  width: max-content;
+}
+mat-card-actions button {
+  width: 100%;
+}
+mat-card-content {
+  padding-top: 0.5rem;
+  margin: 0;
+}
+mat-card-content mat-form-field {
+    font-size: 1.2rem;
+}

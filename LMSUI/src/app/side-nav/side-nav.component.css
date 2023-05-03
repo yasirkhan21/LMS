@@ -1,0 +1,11 @@
+:host {
+  display: block;
+}
+mat-list-item:hover {
+  background-color: #f1d4d4;
+  cursor: pointer;
+}
+
+mat-list-item:active {
+  background-color: #f1d4d4;
+}

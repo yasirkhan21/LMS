@@ -1,0 +1,19 @@
+:host {
+  display: block;
+  margin: 3rem auto 0;
+  width: 70%;
+}
+mat-card {
+  width: 500px;
+}
+ button {
+  width: 100%;
+  background-color: rgba(#fff, #fff, #fff, 0.1);
+}
+mat-card-content {
+  display: grid;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+}
